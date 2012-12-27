@@ -1,0 +1,17 @@
+  body {
+    font-family: verdana, arial, helvetica, sans-serif;
+    font-size: 14px;
+    background: #daffe0;
+    width:900px;
+    margin-left: 225px;
+    margin-right: 50px;
+    padding:10px; 
+
+  }
+
+  p {
+    line-height: 2em;
+    text-align: justify;
+    margin-left: 0px;
+    margin-right: 0px;
+  }
