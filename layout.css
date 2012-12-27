@@ -1,0 +1,18 @@
+ header {
+    color: #090b0c;
+    padding: 6px;
+    background: #a7ffb5;
+    text-align: center;
+  }
+      
+  footer {
+    clear: both;
+    font-family: arial, sans-serif;
+    font-size: 14px;
+    font-weight: bold;
+    color: #000000;
+    background: #000000;
+    padding: 10px;
+    text-align: center;
+  }
+ 
